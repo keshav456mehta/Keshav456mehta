@@ -251,18 +251,24 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 </a>
 </p>
 
-### LeetCode Snapshot
+## LeetCode Progress
 
-| Metric | Value |
-|----------|----------|
-| Problems Solved | 91 |
-| Easy | 40 |
-| Medium | 41 |
-| Hard | 10 |
-| Max Streak | 35 |
-| Active Days | 72 |
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=dark&font=Poppins&ext=contest" />
+</p>
 
----
+## LeetCode Analytics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=dark&font=Poppins&ext=heatmap" />
+</p>
+
+
+## LeetCode Analytics
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=unicorn&font=Poppins&ext=heatmap" />
+</p>
 
 # GitHub Analytics
 
