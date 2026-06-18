@@ -1,38 +1,346 @@
-<h1 align="center">Hi 👋, I'm Keshav Mehta</h1>
-<h3 align="center">🎓 B.Tech CSE | Second-year student💻 AI Enthusisast | Creative Problem Solver | Web Developement Lover</h3>
+# 🚀 Keshav Mehta | AI Developer • Full Stack Builder • Problem Solver
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
-
-- I have done my first internship from CodSoft. [WebDevlopment Intern]https://github.com/keshav456mehta/CODSOFT
-
-- 🌱 I’m currently learning *WebDevlopment* and *DSA*
-
-- 👨‍💻 All of my projects are available at My Github (https://github.com/keshav456mehta/CODSOFT)
-
-- I am currently pursuing B.Tech CSE [From Noida Institute of Engineering And Technology](From Noida Institute of Engineering And Technology)
-
-- 💬 Ask me about *Python,C++,C,Java,HTML,CSS,JavaScript*
-
-- 📫 How to reach me *keshav456mehta@gmail.com*
-
-- ⚡ Fun fact *First Crush - 🌐Web Developement👨🏻‍💻*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/keshav-mehta-998985353/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="abdus sami" height="30" width="40" /></a>
-<a href="https://instagram.com/___its.keshav" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="abdu.sam04" height="30" width="40" /></a>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,19,20,24,30&text=Keshav%20Mehta&fontSize=65&fontAlignY=40&desc=AI%20Developer%20|%20Full%20Stack%20Engineer%20|%20Open%20Source%20Builder&descAlignY=62"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="js" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/java/default.asp" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/c/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/> </a> </p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=B.Tech+CSE+(AI)+Student;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Open+Source+Contributor;Hackathon+Team+Leader;Building+Products+That+Matter"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshav456mehta&show_icons=true&locale=en&layout=compact" alt="keshav456mehta" /></p>
+<p align="center">
+<img src="https://img.shields.io/badge/B.Tech_CSE(AI)-NIET-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CGPA-8.3-indigo?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Semester-5-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Greater_Noida_India-483D8B?style=for-the-badge"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav456mehta&show_icons=true&locale=en" alt="keshav456mehta" /></p>
+<p align="center">
+<a href="https://portfoliowebsite-phi-gold.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-8A2BE2?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/keshav-mehta-998985353/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/></a>
+<a href="mailto:keshav456mehta@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-indigo?style=for-the-badge"/></a>
+<a href="https://github.com/keshav456mehta"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge"/></a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=keshav456mehta&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/keshav456mehta?style=for-the-badge&color=purple"/>
+<img src="https://img.shields.io/github/stars/keshav456mehta?style=for-the-badge&color=indigo"/>
+</p>
+
+---
+
+# About Me
+
+I am a Computer Science (AI) student at NIET with a strong interest in Software Engineering, Artificial Intelligence, Full Stack Development, and Product Building.
+
+My goal is to combine engineering fundamentals with modern AI technologies to create impactful products that solve real-world problems.
+
+### What I Focus On
+
+- Full Stack Web Development
+- AI-Powered Applications
+- Data Structures & Algorithms
+- Open Source Development
+- Product Engineering
+- UI/UX Driven Development
+
+### Open To
+
+- Software Engineering Internships
+- AI/ML Internships
+- Hackathons
+- Open Source Programs
+- Startup Collaborations
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
+</p>
+
+## Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| Generative AI | Intermediate | Prompt Engineering, AI Integration |
+| NLP | Intermediate | Chat Interfaces, Knowledge Systems |
+| AI Products | Intermediate | Learning Platforms, Productivity Tools |
+| LLM Applications | Intermediate | Hugging Face Deployments |
+| Product Engineering | Intermediate | Building End-to-End Solutions |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>AnimVault</b></summary>
+
+Premium animation library built for developers.
+
+| Category | Details |
+|----------|----------|
+| Stack | HTML, CSS, JavaScript, Canvas API |
+| Scale | 53+ Animations |
+| Performance | Zero Dependency |
+| Security | Client Side Architecture |
+| Impact | Developer Productivity |
+| Repository | GitHub |
+
+AnimVault provides a curated collection of handcrafted canvas animations with filtering, previews, and premium access models.
+</details>
+
+<details>
+<summary><b>EDURISE (LearnifyX)</b></summary>
+
+Gamified AI learning platform.
+
+| Category | Details |
+|----------|----------|
+| Stack | HTML, CSS, JavaScript |
+| Scale | Multi-Module Platform |
+| Performance | Optimized Rendering |
+| Security | Browser Persistence |
+| Impact | Student Engagement |
+| Repository | GitHub |
+
+Built for improving student engagement through quests, XP systems, and AI-powered assistance.
+</details>
+
+<details>
+<summary><b>Language Translation Tool</b></summary>
+
+Translation platform supporting multiple languages.
+
+| Category | Details |
+|----------|----------|
+| Stack | JavaScript |
+| Scale | Multi-Language |
+| Performance | Real Time |
+| Impact | Accessibility |
+| Repository | GitHub |
+
+Created during AI Internship at CodeAlpha.
+</details>
+
+<details>
+<summary><b>TypeMaster Pro</b></summary>
+
+Advanced typing platform with analytics.
+
+| Category | Details |
+|----------|----------|
+| Stack | HTML, CSS, JavaScript |
+| Scale | Achievement System |
+| Performance | Real Time Analytics |
+| Impact | Typing Productivity |
+| Repository | GitHub |
+
+Includes XP systems, achievements, analytics dashboards and progress tracking.
+</details>
+
+---
+
+# Experience
+
+## AI Intern — CodeAlpha
+
+**June 2025 – July 2025**
+
+- Developed Language Translation Tool
+- Built AI-powered applications
+- Worked on practical AI projects
+
+**Skills:** AI • JavaScript • APIs
+
+---
+
+## Web Development Intern — CodSoft
+
+**June 2025 – July 2025**
+
+- Built responsive websites
+- Improved UI/UX
+- Optimized frontend performance
+
+**Skills:** HTML • CSS • JavaScript
+
+---
+
+## Team Leader — Smart India Hackathon
+
+**2025 – Present**
+
+- Led AI-Vengers Team
+- Coordinated development
+- Managed project planning
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|-------------|----------|
+| Smart India Hackathon | Internal Round Qualified |
+| Leadership | Led AI-Vengers Team |
+| LeetCode | 91+ Problems Solved |
+| Open Source | Multiple Public Projects |
+| Portfolio Development | Multiple Deployed Applications |
+
+---
+
+# Certifications
+
+## Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle_Java-Certified-red?style=for-the-badge)
+
+## HackerRank
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-success?style=for-the-badge)
+
+## Simplilearn
+
+![GenAI](https://img.shields.io/badge/Generative_AI-Certified-purple?style=for-the-badge)
+
+![CSS](https://img.shields.io/badge/CSS-Certified-indigo?style=for-the-badge)
+
+## HP LIFE
+
+![AI](https://img.shields.io/badge/AI_For_Beginners-Certified-blue?style=for-the-badge)
+
+## Deloitte
+
+![Analytics](https://img.shields.io/badge/Data_Analytics-Job_Simulation-darkblue?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/u/keshav_mehta_456/">
+<img src="https://img.shields.io/badge/LeetCode-91_Solved-orange?style=for-the-badge"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/keshav456mehta">
+<img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge"/>
+</a>
+</p>
+
+### LeetCode Snapshot
+
+| Metric | Value |
+|----------|----------|
+| Problems Solved | 91 |
+| Easy | 40 |
+| Medium | 41 |
+| Hard | 10 |
+| Max Streak | 35 |
+| Active Days | 72 |
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keshav456mehta&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav456mehta&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav456mehta&theme=tokyonight"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=keshav456mehta&theme=tokyonight&row=2&column=4"/>
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav456mehta&theme=tokyo-night"/>
+</p>
+
+---
+
+# Contribution Snake
+
+```md
+Replace with generated snake.svg workflow
+```
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Data Structures & Algorithms
+  - React.js
+  - Django
+
+Building:
+  - AI Applications
+  - Full Stack Products
+  - Open Source Projects
+
+Exploring:
+  - Generative AI
+  - Product Engineering
+  - Software Architecture
+
+Open To:
+  - Internships
+  - Collaborations
+  - Hackathons
+  - Open Source Programs
+```
+
+---
+
+# Connect
+
+<p align="center">
+<a href="mailto:keshav456mehta@gmail.com">Email</a> •
+<a href="https://www.linkedin.com/in/keshav-mehta-998985353/">LinkedIn</a> •
+<a href="https://github.com/keshav456mehta">GitHub</a> •
+<a href="https://portfoliowebsite-phi-gold.vercel.app/">Portfolio</a>
+</p>
+
+---
+
+> Building useful software, learning continuously, and creating technology that creates impact.
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
