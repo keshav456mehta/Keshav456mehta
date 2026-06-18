@@ -239,17 +239,6 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 
 ---
 
-# Coding Profiles
-
-<p align="center">
-<a href="https://leetcode.com/u/keshav_mehta_456/">
-<img src="https://img.shields.io/badge/LeetCode-91_Solved-orange?style=for-the-badge"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/keshav456mehta">
-<img src="https://img.shields.io/badge/HackerRank-Profile-success?style=for-the-badge"/>
-</a>
-</p>
 
 # LeetCode 
 
@@ -276,6 +265,11 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 
 ---
 
+## GitHub Metrics
+
+<p align="center">
+  <img src="https://github.com/keshav456mehta/keshav456mehta/blob/main/github-metrics.svg" alt="Metrics">
+</p>
 
 
 # Contribution Activity
