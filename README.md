@@ -251,15 +251,10 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 </a>
 </p>
 
-## Coding Profiles
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=unicorn&font=Poppins" />
+  <img src="https://leetcode-stats.vercel.app/api?username=keshav_mehta_456&theme=Dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav456mehta&theme=tokyonight" />
-</p>
 
 
 # GitHub Analytics
