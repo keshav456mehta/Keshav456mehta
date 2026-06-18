@@ -287,7 +287,11 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
   <img src="https://raw.githubusercontent.com/keshav456mehta/keshav456mehta/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+## 3D Contribution Calendar
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/keshav456mehta/keshav456mehta/output/profile-night-rainbow.svg" />
+</p>
 ---
 
 # Current Focus
