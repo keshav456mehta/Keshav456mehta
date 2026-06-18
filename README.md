@@ -277,13 +277,7 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 
 ---
 
-# GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=keshav456mehta&theme=tokyonight&row=2&column=4"/>
-</p>
-
----
 
 # Contribution Activity
 
@@ -292,8 +286,6 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 </p>
 
 ---
-
-# Contribution Snake
 
 
 # Contribution Snake
