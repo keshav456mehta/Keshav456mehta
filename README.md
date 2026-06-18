@@ -29,8 +29,9 @@
 </p>
 
 ---
-
-# About Me
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=About%20Me&fontSize=35&fontColor=ffffff&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
 
 I am a Computer Science (AI) student at NIET with a strong interest in Software Engineering, Artificial Intelligence, Full Stack Development, and Product Building.
 
@@ -55,7 +56,9 @@ My goal is to combine engineering fundamentals with modern AI technologies to cr
 
 ---
 
-# Tech Stack
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=Tech%20Stack&fontSize=35&fontColor=ffffff&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
 
 ## Languages
 
@@ -95,7 +98,9 @@ My goal is to combine engineering fundamentals with modern AI technologies to cr
 
 ---
 
-# Featured Projects
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=Featured%20Projects&fontSize=35&fontColor=ffffff&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
 
 <details>
 <summary><b>AnimVault</b></summary>
@@ -251,6 +256,10 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
   <img src="https://img.shields.io/badge/Active_Days-72-blueviolet?style=for-the-badge">
 </p>
 
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=GitHub%20Analytics&fontSize=35&fontColor=ffffff&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
 
 # GitHub Analytics
 
