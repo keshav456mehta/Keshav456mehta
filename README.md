@@ -334,15 +334,7 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 </p>
 
 
-## 3D Contribution Calendar
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/keshav456mehta/keshav456mehta/output/profile-night-rainbow.svg" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
-</p>
 
 
 # Current Focus
