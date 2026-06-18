@@ -28,7 +28,10 @@
 <img src="https://img.shields.io/github/stars/keshav456mehta?style=for-the-badge&color=indigo"/>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=About%20Me&fontSize=35&fontColor=ffffff&color=gradient&customColorList=12,19,20,24,30"/>
 </p>
@@ -84,7 +87,11 @@ My goal is to combine engineering fundamentals with modern AI technologies to cr
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel"/>
 </p>
 
----
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
+
 
 # AI / ML Expertise
 
@@ -168,7 +175,9 @@ Advanced typing platform with analytics.
 Includes XP systems, achievements, analytics dashboards and progress tracking.
 </details>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
 
 # Experience
 
@@ -204,7 +213,11 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 - Coordinated development
 - Managed project planning
 
----
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
+
 
 # Achievements
 
@@ -216,7 +229,11 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 | Open Source | Multiple Public Projects |
 | Portfolio Development | Multiple Deployed Applications |
 
----
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
+
 
 # Certifications
 
@@ -242,7 +259,10 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 
 ![Analytics](https://img.shields.io/badge/Data_Analytics-Job_Simulation-darkblue?style=for-the-badge)
 
----
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
 
 
 # LeetCode 
@@ -261,6 +281,10 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 <img src="https://capsule-render.vercel.app/api?type=rounded&height=120&text=GitHub%20Analytics&fontSize=35&fontColor=ffffff&color=gradient&customColorList=12,19,20,24,30"/>
 </p>
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
+
 # GitHub Analytics
 
 <p align="center">
@@ -272,7 +296,8 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav456mehta&theme=tokyonight"/>
 </p>
 
----
+
+
 
 ## GitHub Metrics
 
@@ -281,13 +306,21 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 </p>
 
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
+
 # Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshav456mehta&theme=tokyo-night"/>
 </p>
 
----
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
+
 
 ## Contribution Snake
 
@@ -295,12 +328,22 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
   <img src="https://raw.githubusercontent.com/keshav456mehta/keshav456mehta/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
+
+
 ## 3D Contribution Calendar
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/keshav456mehta/keshav456mehta/output/profile-night-rainbow.svg" />
 </p>
----
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
+
 
 # Current Focus
 
@@ -327,7 +370,9 @@ Open To:
   - Open Source Programs
 ```
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,19,20,24,30"/>
+</p>
 
 # Connect
 
