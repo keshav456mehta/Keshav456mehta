@@ -251,10 +251,38 @@ Includes XP systems, achievements, analytics dashboards and progress tracking.
 </a>
 </p>
 
+# LeetCode 
+
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=keshav_mehta_456&theme=Dark" />
+  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=dracula&font=Poppins&ext=heatmap" />
 </p>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=nord&font=Poppins&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=forest&font=Poppins&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=dark&font=Poppins&ext=heatmap&border=1" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=unicorn&font=Poppins&ext=heatmap" />
+</p>
+
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/keshav_mehta_456?theme=dracula&font=Poppins&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-91-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Max_Streak-35-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Active_Days-72-blueviolet?style=for-the-badge">
+</p>
 
 
 # GitHub Analytics
